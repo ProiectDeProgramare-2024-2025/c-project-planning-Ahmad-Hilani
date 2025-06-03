@@ -1,0 +1,3 @@
+C:/Users/lozog/CLionProjects/BanatBanking/cmake-build-debug/CMakeFiles/BanatBanking.dir
+C:/Users/lozog/CLionProjects/BanatBanking/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lozog/CLionProjects/BanatBanking/cmake-build-debug/CMakeFiles/rebuild_cache.dir
